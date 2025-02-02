@@ -1,0 +1,44 @@
+{
+    "svelte.enable-ts-plugin": true,
+    "azureResourceGroups.selectedSubscriptions": [
+        "e7c6f40b-23b2-4087-883e-66fa0ae8eb9c/e5488a0a-f683-45f8-b316-5893dc76d845",
+        "0801c0ff-62d4-4f7b-bbfc-90f8c358e8d7/ce45190f-41bb-4743-a117-756833b2d15c"
+    ],
+    "git.confirmSync": false,
+    "security.workspace.trust.untrustedFiles": "open",
+    "@azure.argTenant": "0801c0ff-62d4-4f7b-bbfc-90f8c358e8d7",
+    "azure.tenant": "0801c0ff-62d4-4f7b-bbfc-90f8c358e8d7",
+    "chat.editing.alwaysSaveWithGeneratedChanges": true,
+    "git.defaultCloneDirectory": "/Users/phil/Documents/GitHub",
+    "dvc.doNotRecommendRedHatExtension": true,
+    "security.promptForLocalFileProtocolHandling": false,
+    "editor.accessibilitySupport": "off",
+    "editor.unicodeHighlight.ambiguousCharacters": false,
+    "editor.fontLigatures": true,
+ 
+ 
+    "editor.fontFamily": "Anonymous Pro",
+  "editor.fontSize": 13,
+  "editor.formatOnPaste": false,
+  "editor.inlineSuggest.enabled": true,
+  "editor.lineHeight": 0,
+  "editor.linkedEditing": true,
+  "editor.minimap.enabled": false,
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.snippetSuggestions": "top",
+  "editor.suggestSelection": "first",
+"editor.tabSize": 2,
+"workbench.sideBar.location": "right",
+
+"workbench.panel.defaultLocation": "right",
+
+
+"copilot.chat.location": "right",
+"amazonQ.telemetry": false,
+"python.defaultInterpreterPath": "/Users/phil/Projects/llama-conversation-linkedin/venv3.13",
+"amazonQ.suppressPrompts": {
+  "codeWhispererConnectionExpired": true
+}
+
+    
+}
