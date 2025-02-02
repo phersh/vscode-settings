@@ -1,0 +1,57 @@
+// General code commenting
+aaron-bond.better-comments
+
+// AWS CLI
+amazonwebservices.amazon-q-vscode
+amazonwebservices.aws-toolkit-vscode
+
+// General text manipulation
+bibhasdn.unique-lines
+wupb.arrange-selection
+
+// Python development (AWS Boto3)
+boto3typed.boto3-ide
+
+// JavaScript/TypeScript (Deno)
+denoland.vscode-deno
+
+// Git enhancements
+eamodio.gitlens
+mhutchie.git-graph
+
+// General VS Code configuration
+extensions.json
+
+// General code assistance
+github.copilot
+github.copilot-chat
+openai.openai-chatgpt-adhoc
+
+// GitHub integration
+github.remotehub
+
+// GitHub Actions
+github.vscode-github-actions
+
+// GitHub pull requests
+github.vscode-pull-request-github
+
+// Data version control
+iterative.dvc
+
+// Azure CLI
+ms-azuretools.vscode-azure-github-copilot
+ms-azuretools.vscode-azureresourcegroups
+
+// Azure Functions
+ms-azuretools.vscode-azurefunctions
+
+// Azure Static Web Apps
+ms-azuretools.vscode-azurestaticwebapps
+
+// .NET development
+ms-dotnettools.vscode-dotnet-runtime
+
+// Python development
+ms-python.debugpy
+ms
