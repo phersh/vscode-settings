@@ -1,1 +1,2 @@
 grep -vE '^\s*$|^\s*//' vs-extensions.txt | xargs -L1 code --install-extension
+grep -vE '^\s*$|^\s*//' vs-extensions.txt | xargs -L1 echo
